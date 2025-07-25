@@ -1479,11 +1479,12 @@ html {
 .highlight-word::before {
     content: '';
     position: absolute;
+    bottom: 0;
     left: 0;
     top: 60%;
     width: 100%;
-    height: 60%;
-    background: #faff8a;
+    height: 2px;
+    background: #00ff88;
     opacity: 0.7;
     z-index: -1;
     transform: scaleX(0);
