@@ -137,5 +137,3 @@ NeuroGrove is a conceptual landing page for an AI-powered plant communication pl
 This project demonstrates how far you can go with **pure HTML and CSS** for interactive, animated, and modern web design—no JavaScript required for the main effects!
 
 ---
-
-**Enjoy
